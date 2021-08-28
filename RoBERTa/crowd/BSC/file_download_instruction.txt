@@ -1,0 +1,1 @@
+Please download "/Data with Aggregated Labels/Bayesian Sequence Combination/train.p", and "/Data with Aggregated Labels/Bayesian Sequence Combination/dev.p" from our dataset OSF link and and place them under this directory

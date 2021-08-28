@@ -1,0 +1,1 @@
+Please download "/Data with Aggregated Labels/Majority Vote/train.p", and "/Data with Aggregated Labels/Majority Vote/dev.p" from our dataset OSF link and and place them under this directory

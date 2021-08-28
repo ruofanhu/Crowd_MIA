@@ -1,0 +1,3 @@
+Please download "/ground truth/train.p", "/ground truth/dev.p" and "/ground truth/test.p" from our dataset OSF link and and place them under this directory
+
+For other files, please see instruction in each subdirectories
